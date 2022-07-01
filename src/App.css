@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color:lightblue;
+  background-image:image('./images/background.jpg')
 }
 
 .App-logo {
@@ -55,14 +56,34 @@
   max-height: 705.25px;
   max-width: 75vw;
 }
-
 .portrait {
   border-style: solid;
   border: 2px solid #282c34;
   border-radius: 100px;
   background-color: #282c34;
+  min-width:fit-content;
+  max-width: 461px !important;
+}
+
+.links {
+  border-style: solid;
+  border: 2px solid #282c34;
+  border-radius: 100px;
+  background-color: #282c34;
+  height: 680px;
+  color: lightblue;
+}
+
+.top {
+  border-style: solid;
+  border: 10px solid #282c34;
 }
 
 .text {
-  color: white;
+  color: lightblue;
+}
+
+.picture {
+  border-radius: 100px;
+  max-height: 50vh;
 }
