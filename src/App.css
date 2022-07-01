@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color:lightblue;
 }
 
 .App-logo {
@@ -35,4 +36,33 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.car {
+  min-width:50vw;
+}
+
+.carousel {
+  aspect-ratio: 16/9;
+  display:block;
+}
+.custom-item {
+  aspect-ratio: 16/9;
+  display: block;
+}
+
+.rounded-circle {
+  max-height: 705.25px;
+  max-width: 75vw;
+}
+
+.portrait {
+  border-style: solid;
+  border: 2px solid #282c34;
+  border-radius: 100px;
+  background-color: #282c34;
+}
+
+.text {
+  color: white;
 }
