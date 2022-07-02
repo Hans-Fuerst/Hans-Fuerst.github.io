@@ -72,6 +72,7 @@
   background-color: #282c34;
   height: 680px;
   color: lightblue;
+  min-width: 461px;
 }
 
 .top {
