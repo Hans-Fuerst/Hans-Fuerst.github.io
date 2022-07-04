@@ -80,6 +80,20 @@
   border: 10px solid #282c34;
 }
 
+.sweater {
+  background-color: #68191f;
+  border-style: solid;
+  border: 10px solid #282c34;
+  color: #ca923f;
+}
+
+.dlc {
+  background-color: black;
+  border-style: solid;
+  border: 10px solid #282c34;
+  color: #ff2101;
+}
+
 .text {
   color: lightblue;
 }
