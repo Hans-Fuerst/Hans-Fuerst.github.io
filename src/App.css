@@ -61,8 +61,8 @@
   border: 2px solid #282c34;
   border-radius: 100px;
   background-color: #282c34;
+  width: 461px !important;
   min-width:fit-content;
-  max-width: 461px !important;
 }
 
 .links {
@@ -86,5 +86,5 @@
 
 .picture {
   border-radius: 100px;
-  max-height: 50vh;
+  width: 460px;
 }

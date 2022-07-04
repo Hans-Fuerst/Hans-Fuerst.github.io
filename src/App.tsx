@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import { Carousel, Image } from 'react-bootstrap'
 import { YoutubeEmbed } from './components/YoutubeEmbed';
-import hans from './images/hans.jpg'
-import background from './images/background.jpg'
+import hans from './images/hans.webp'
+import background from './images/background.webp'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fas } from '@fortawesome/free-solid-svg-icons'
@@ -38,7 +38,7 @@ function App() {
             <h4>
               <a href="https://www.facebook.com/sweaterpeopleec" rel='noopener' className='link-primary'>
                 <FontAwesomeIcon icon={faFacebook} size='1x'/>
-                { } Sweater People
+                Sweater People
               </a>
             </h4>
           </div>
@@ -46,7 +46,7 @@ function App() {
             <h4>
               <a href="https://www.youtube.com/channel/UCLkwQgM87tNf_qCBw1iF-FA" rel='noopener' className='link-danger'>
                 <FontAwesomeIcon icon={faYoutube} size='1x'/>
-                { } Hans Fuerst
+                Hans Fuerst
               </a>
             </h4>
           </div>
