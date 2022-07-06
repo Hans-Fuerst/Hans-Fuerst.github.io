@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.457e3489.css",
-    "main.js": "/static/js/main.a4c2cefa.js",
-    "static/js/787.11d07d88.chunk.js": "/static/js/787.11d07d88.chunk.js",
-    "static/media/Sweater_Logo.png": "/static/media/Sweater_Logo.52669e4d9309e4e77dd3.png",
-    "static/media/DLC_Logo.png": "/static/media/DLC_Logo.265a2ac42a0b0dccf51a.png",
-    "static/media/hans2.webp": "/static/media/hans2.4d6a2590ad50e4b68c23.webp",
-    "index.html": "/index.html",
-    "main.457e3489.css.map": "/static/css/main.457e3489.css.map",
-    "main.a4c2cefa.js.map": "/static/js/main.a4c2cefa.js.map",
-    "787.11d07d88.chunk.js.map": "/static/js/787.11d07d88.chunk.js.map"
+    "main.css": "/hans-fuerst/static/css/main.457e3489.css",
+    "main.js": "/hans-fuerst/static/js/main.47f974fa.js",
+    "static/js/787.11d07d88.chunk.js": "/hans-fuerst/static/js/787.11d07d88.chunk.js",
+    "static/media/Sweater_Logo.png": "/hans-fuerst/static/media/Sweater_Logo.52669e4d9309e4e77dd3.png",
+    "static/media/DLC_Logo.png": "/hans-fuerst/static/media/DLC_Logo.265a2ac42a0b0dccf51a.png",
+    "static/media/hans2.webp": "/hans-fuerst/static/media/hans2.4d6a2590ad50e4b68c23.webp",
+    "index.html": "/hans-fuerst/index.html",
+    "main.457e3489.css.map": "/hans-fuerst/static/css/main.457e3489.css.map",
+    "main.47f974fa.js.map": "/hans-fuerst/static/js/main.47f974fa.js.map",
+    "787.11d07d88.chunk.js.map": "/hans-fuerst/static/js/787.11d07d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.457e3489.css",
-    "static/js/main.a4c2cefa.js"
+    "static/js/main.47f974fa.js"
   ]
 }
