@@ -126,8 +126,7 @@ function App() {
         <div className="col align-self-center">
           <Image className='dlc-pic' src={dlc}/>
           <p>
-            Down Loadable Collective or DLC is a band I started with some friends where we play music from video games. 
-          </p>
+          Down Loadable Collective (DLC) is a video game cover band reimagining music ranging from classic to modern games in a contemporary style influenced by jazz, hiphop, and funk consisting of members Chuck Woehrle (saxophone), Eric Thrane (trombone), Hans Fuerst (keys), Will DeBlaey (bass), and North Skager (drums).          </p>
         </div>
         <div className='col align-self-center car'>
           <Carousel fade>
