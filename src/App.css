@@ -1,7 +1,7 @@
 .App {
   text-align: center;
-  background-color:lightblue;
-  background-image:image('./images/background.jpg')
+  background-color:black;
+  font-weight:bold;
 }
 
 .App-logo {
@@ -62,7 +62,9 @@
   border-radius: 100px;
   background-color: #282c34;
   width: 461px !important;
+  height: 678px;
   min-width:fit-content;
+  color: lightblue;
 }
 
 .links {
@@ -78,20 +80,27 @@
 .top {
   border-style: solid;
   border: 10px solid #282c34;
+  background-color: gray;
 }
 
 .sweater {
-  background-color: #68191f;
+  background-color: #ba1b1b;
   border-style: solid;
   border: 10px solid #282c34;
-  color: #ca923f;
+  color:#fae805;
 }
 
 .dlc {
-  background-color: black;
+  background-color: #fff100;
   border-style: solid;
   border: 10px solid #282c34;
   color: #ff2101;
+}
+
+.dlc-pic {
+  max-width: 400px;
+  height: auto;
+  width: auto /9;
 }
 
 .text {
