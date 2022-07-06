@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Hans-Fuerst.github.io/static/css/main.457e3489.css",
-    "main.js": "/Hans-Fuerst.github.io/static/js/main.2cf6f483.js",
-    "static/js/787.11d07d88.chunk.js": "/Hans-Fuerst.github.io/static/js/787.11d07d88.chunk.js",
-    "static/media/Sweater_Logo.png": "/Hans-Fuerst.github.io/static/media/Sweater_Logo.52669e4d9309e4e77dd3.png",
-    "static/media/DLC_Logo.png": "/Hans-Fuerst.github.io/static/media/DLC_Logo.265a2ac42a0b0dccf51a.png",
-    "static/media/hans2.webp": "/Hans-Fuerst.github.io/static/media/hans2.4d6a2590ad50e4b68c23.webp",
-    "index.html": "/Hans-Fuerst.github.io/index.html",
-    "main.457e3489.css.map": "/Hans-Fuerst.github.io/static/css/main.457e3489.css.map",
-    "main.2cf6f483.js.map": "/Hans-Fuerst.github.io/static/js/main.2cf6f483.js.map",
-    "787.11d07d88.chunk.js.map": "/Hans-Fuerst.github.io/static/js/787.11d07d88.chunk.js.map"
+    "main.css": "/static/css/main.457e3489.css",
+    "main.js": "/static/js/main.a4c2cefa.js",
+    "static/js/787.11d07d88.chunk.js": "/static/js/787.11d07d88.chunk.js",
+    "static/media/Sweater_Logo.png": "/static/media/Sweater_Logo.52669e4d9309e4e77dd3.png",
+    "static/media/DLC_Logo.png": "/static/media/DLC_Logo.265a2ac42a0b0dccf51a.png",
+    "static/media/hans2.webp": "/static/media/hans2.4d6a2590ad50e4b68c23.webp",
+    "index.html": "/index.html",
+    "main.457e3489.css.map": "/static/css/main.457e3489.css.map",
+    "main.a4c2cefa.js.map": "/static/js/main.a4c2cefa.js.map",
+    "787.11d07d88.chunk.js.map": "/static/js/787.11d07d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.457e3489.css",
-    "static/js/main.2cf6f483.js"
+    "static/js/main.a4c2cefa.js"
   ]
 }
