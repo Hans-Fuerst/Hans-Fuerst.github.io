@@ -3,7 +3,6 @@ import './App.css';
 import { Carousel, Image } from 'react-bootstrap'
 import { YoutubeEmbed } from './components/YoutubeEmbed';
 import hans from './images/hans2.webp'
-import background from './images/background.webp'
 import sweater_people from './images/Sweater_Logo.png'
 import dlc from './images/DLC_Logo.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
