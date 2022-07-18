@@ -4,6 +4,7 @@ import "../App.css"
 
 interface MyProps {
     url: string
+    title: string
 }
 
 interface MyState {}
@@ -13,7 +14,7 @@ export class YoutubeEmbed extends React.Component<MyProps, MyState> {
         return (
             <iframe
                 src={`https://www.youtube-nocookie.com/embed/${this.props.url}`}
-                title="Sweater People Youtube"
+                title={`${this.props.title}`}
                 width='100%'
                 height='100%'
             />
