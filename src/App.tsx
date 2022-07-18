@@ -3,8 +3,8 @@ import './App.css';
 import { Carousel, Image } from 'react-bootstrap'
 import { YoutubeEmbed } from './components/YoutubeEmbed';
 import hans from './images/hans2.webp'
-import sweater_people from './images/Sweater_Logo.png'
-import dlc from './images/DLC_Logo.png'
+import sweater_people from './images/Sweater_Logo.webp'
+import dlc from './images/DLC_Logo.webp'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons'
 function App() {
@@ -24,7 +24,7 @@ function App() {
     </Navbar> */}
       <div className='row top'>
         <div className='col-4 portrait align-self-center m-md-3 m-sm-3'>
-          <Image className='picture pt-4 px-4' src={hans} alt="hans"/>
+          <Image className='picture pt-4 px-4' src={hans} alt="Hans Profile Picture"/>
           <div className='row text'>
             <h4>
               Hans Fuerst
@@ -123,9 +123,10 @@ function App() {
       </div>
       <div className='row dlc mt-2'>
         <div className="col align-self-center">
-          <Image className='dlc-pic' src={dlc}/>
+          <Image className='dlc-pic' src={dlc} alt='logo for DLC'/>
           <p>
-          Down Loadable Collective (DLC) is a video game cover band reimagining music ranging from classic to modern games in a contemporary style influenced by jazz, hiphop, and funk consisting of members Chuck Woehrle (saxophone), Eric Thrane (trombone), Hans Fuerst (keys), Will DeBlaey (bass), and North Skager (drums).          </p>
+          Down Loadable Collective (DLC) is a video game cover band reimagining music ranging from classic to modern games in a contemporary style influenced by jazz, hiphop, and funk consisting of members Chuck Woehrle (saxophone), Eric Thrane (trombone), Hans Fuerst (keys), Will DeBlaey (bass), and North Skager (drums).          
+          </p>
         </div>
         <div className='col align-self-center car'>
           <Carousel fade>
