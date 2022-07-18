@@ -129,7 +129,7 @@ class App extends React.Component {
           </div>
           <div className='col align-self-center car'>
             <Carousel fade>
-              {this.getDLCVideos()}
+              {this.getSweaterVideos()}
             </Carousel>
           </div>
         </div>
