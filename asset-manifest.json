@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.32f044e8.css",
-    "main.js": "/static/js/main.809fd670.js",
+    "main.js": "/static/js/main.249a2ff3.js",
     "static/js/787.11d07d88.chunk.js": "/static/js/787.11d07d88.chunk.js",
     "static/media/Sweater_Logo.webp": "/static/media/Sweater_Logo.e43630902c0e900082c1.webp",
     "static/media/DLC_Logo.webp": "/static/media/DLC_Logo.af2592e9c5212629060f.webp",
     "static/media/hans2.webp": "/static/media/hans2.4d6a2590ad50e4b68c23.webp",
     "index.html": "/index.html",
     "main.32f044e8.css.map": "/static/css/main.32f044e8.css.map",
-    "main.809fd670.js.map": "/static/js/main.809fd670.js.map",
+    "main.249a2ff3.js.map": "/static/js/main.249a2ff3.js.map",
     "787.11d07d88.chunk.js.map": "/static/js/787.11d07d88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32f044e8.css",
-    "static/js/main.809fd670.js"
+    "static/js/main.249a2ff3.js"
   ]
 }
