@@ -16,7 +16,7 @@ class App extends React.Component {
     let allDLCVideos: any[] = [];
     videoLinks.d.forEach(e => {
       allDLCVideos.push(
-        <Carousel.Item className='carousel-item' bsPrefix='custom-item'>
+        <Carousel.Item className='carousel-item' bsPrefix='custom-item' key={e}>
           <YoutubeEmbed url={e} title='DLC Music Video' />
         </Carousel.Item>
       )
@@ -28,7 +28,7 @@ class App extends React.Component {
     let allSweaterVideos: any[] = [];
     videoLinks.s.forEach(e => {
       allSweaterVideos.push(
-        <Carousel.Item className='carousel-item' bsPrefix='custom-item'>
+        <Carousel.Item className='carousel-item' bsPrefix='custom-item' key={e}>
           <YoutubeEmbed url={e} title='Sweater People Music Video' />
         </Carousel.Item>
       )
