@@ -38,17 +38,9 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="App p-4">
-        <div className='row top'>
-          <div className='col-4 portrait align-self-center m-md-3 m-sm-3'>
-            <Image className='picture pt-4 px-4' src={hans} alt="Hans Profile Picture" />
-            <div className='row text'>
-              <h4>
-                Hans Fuerst
-              </h4>
-            </div>
-          </div>
-          <div className='col-4 align-self-center portrait links p-5'>
+      <div className="App p-4 container-fluid">
+        <div className='row top justify-content-center'>
+          <div className='col-4 align-self-center portrait links p-5 m-md-3 m-sm-3 m-xs-1'>
             <p>
               Hi! My name is Hans Fuerst and I am a composer, pianist, educator, and producer in the Eau Claire, Wisconsin area. I am a part of several different projects including ‘Sweater People’, a band/production crew consisting of original music as well as ‘Down Loadable Collective’, a video game music cover band.          </p>
             <br />
@@ -60,7 +52,16 @@ class App extends React.Component {
               I am currently attending UW Eau Claire for a bachelors in music education. I hope to use it to further become a better educator, and communicator within my field.
             </p>
           </div>
-          <div className="col-4 align-self-center portrait m-md-3 m-sm-3 m-xs-1 pt-4 px-2">
+          <div className='col-4 portrait align-self-center m-md-3 m-sm-3'>
+            <Image className='picture pt-4 px-4' src={hans} alt="Hans Profile Picture" />
+            <div className='row text'>
+              <h4>
+                Hans Fuerst
+              </h4>
+            </div>
+          </div>
+          
+          <div className="col-4 align-self-center portrait m-md-3 m-sm-3 m-xs-1 pt-4">
             <h3>
               Personal Socials
             </h3>
@@ -108,9 +109,6 @@ class App extends React.Component {
                 DLC Band
               </a>
             </h4>
-          </div>
-          <div className='col'>
-
           </div>
         </div>
         <h1 className='text'>
